@@ -1,0 +1,41 @@
+body{
+  background-color: rgb(28, 110, 96);
+  
+}
+.main{
+  background:rgba(245, 246, 246, 0.382);
+  width:50%;
+  height: 600px;
+  margin:auto;
+  margin-top:40px;
+  border:2px solid white;
+  border-radius:10px;
+}
+
+
+label{
+  font-size: large;
+  font-weight: bold;
+}
+select{
+  padding: 12px;
+  font-size: large;
+  width:243px;
+  border:none;
+  border-radius: 7px;
+}
+input{
+  padding:12px;
+  font-size: large;
+  border: none;
+  border-radius: 7px;
+}
+button{
+  margin: 10px 0 0 20px;
+  border-radius: 10px;
+  padding: 10px 20px;
+  font-weight: bold;
+  cursor: pointer;
+  color:white;
+  background: #295ccc;
+}
